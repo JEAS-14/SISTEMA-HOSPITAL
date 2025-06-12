@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|j:\\universidad\\elias.j\\sistema\\trabajos\\t4\\hospi\\consoleapp1\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\productofarmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\productofarmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\listahospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\listahospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\colatiquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\colatiquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\listacircularregistopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\listacircularregistopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\listadobleservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\listadobleservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\listatransferenciapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\listatransferenciapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodohospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodohospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodopilatransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodopilatransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodoregistropaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodoregistropaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodoservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodoservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodotransferenciapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodotransferenciapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\pilatramferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\pilatramferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\consoleapp1\\nodoprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13696A63-68FC-4D36-8CA0-F6EAD2C37A34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodoprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 738,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Arbol.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Arbol.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Arbol.cs",
+              "RelativeToolTip": "ConsoleApp1\\Arbol.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoFarmacia.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ProductoFarmacia.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ProductoFarmacia.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ProductoFarmacia.cs",
+              "RelativeToolTip": "ConsoleApp1\\ProductoFarmacia.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAwwH4BAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaHospital.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaHospital.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ListaHospital.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaHospital.cs",
+              "RelativeToolTip": "ConsoleApp1\\ListaHospital.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Reporte.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Reporte.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Reporte.cs",
+              "RelativeToolTip": "ConsoleApp1\\Reporte.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAowCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaTiquet.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ColaTiquet.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ColaTiquet.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ColaTiquet.cs",
+              "RelativeToolTip": "ConsoleApp1\\ColaTiquet.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaCircularRegistoPaciente.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaCircularRegistoPaciente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ListaCircularRegistoPaciente.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaCircularRegistoPaciente.cs",
+              "RelativeToolTip": "ConsoleApp1\\ListaCircularRegistoPaciente.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAlwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaDobleServicios.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaDobleServicios.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ListaDobleServicios.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaDobleServicios.cs",
+              "RelativeToolTip": "ConsoleApp1\\ListaDobleServicios.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAkwBwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NodoArbol.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoArbol.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoArbol.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoArbol.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoArbol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaTransferenciaPaciente.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaTransferenciaPaciente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ListaTransferenciaPaciente.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\ListaTransferenciaPaciente.cs",
+              "RelativeToolTip": "ConsoleApp1\\ListaTransferenciaPaciente.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwF4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NodoCola.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoCola.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoCola.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoCola.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoCola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NodoHospital.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoHospital.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoHospital.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoHospital.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoHospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NodoPacientes.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPacientes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoPacientes.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPacientes.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoPacientes.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NodoPilaTransferencia.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPilaTransferencia.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoPilaTransferencia.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPilaTransferencia.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoPilaTransferencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NodoRegistroPaciente.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoRegistroPaciente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoRegistroPaciente.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoRegistroPaciente.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoRegistroPaciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NodoServicios.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoServicios.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoServicios.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoServicios.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoServicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NodoTransferenciaPacientes.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoTransferenciaPacientes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoTransferenciaPacientes.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoTransferenciaPacientes.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoTransferenciaPacientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Persona.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\Persona.cs",
+              "RelativeToolTip": "ConsoleApp1\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PilaTramferencia.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\PilaTramferencia.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PilaTramferencia.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\PilaTramferencia.cs",
+              "RelativeToolTip": "ConsoleApp1\\PilaTramferencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NodoPrioridad.cs",
+              "DocumentMoniker": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPrioridad.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NodoPrioridad.cs",
+              "ToolTip": "J:\\Universidad\\elias.j\\SISTEMA\\Trabajos\\T4\\hospi\\ConsoleApp1\\NodoPrioridad.cs",
+              "RelativeToolTip": "ConsoleApp1\\NodoPrioridad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:37.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

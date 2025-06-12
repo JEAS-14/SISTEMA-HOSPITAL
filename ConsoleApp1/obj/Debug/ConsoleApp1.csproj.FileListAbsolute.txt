@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Anthony\Desktop\Hospital trabajo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+J:\Universidad\elias.j\SISTEMA\Trabajos\T4\hospi\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
